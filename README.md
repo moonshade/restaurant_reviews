@@ -12,7 +12,7 @@
 ## 安裝過程
 1. 下載檔案
 ```
-$ git clone https://github.com/jimmypan-tw/restaurant_finder.git
+$ git clone https://github.com/moonshade/restaurant_finder.git
 ```
 2. 以npm安裝相關套件
 ```
