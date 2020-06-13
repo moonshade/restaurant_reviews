@@ -1,5 +1,5 @@
 # Restaurant Reviews
-Restaurant Reviews was built in Node.js, Express and mongoose。 Uses can search restaurants and check their detailed information. Administrators can add and modify the data of the restaurants with user authentication included.
+Restaurant Reviews was built in Node.js, Express and mongoose. Uses can search restaurants and check their detailed information. Administrators can add and modify the data of the restaurants with user authentication included.
 
 ## Requirements
 
