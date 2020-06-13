@@ -1,7 +1,7 @@
 # Restaurant Reviews
-Restaurant Reviews 使用node.js,express及mongoose開發。除了可以檢視餐廳詳細資訊,搜尋餐廳, 新增及修改餐廳資料之外, 也打造了使用者認證系統
+Restaurant Reviews was developed using Node.js, Express and mongoose。 Uses can search restaurants and check their detailed information. Administrators can add and modify the data of the restaurants with user authentication included.
 
-## 安裝環境要求
+## Requirements
 
 + Node.js v10.16.0
 + Express v4.17.1
@@ -9,27 +9,27 @@ Restaurant Reviews 使用node.js,express及mongoose開發。除了可以檢視�
 + method-override : v3.0.0
 + mongoose : v5.6.0
 
-## 安裝過程
-1. 下載檔案
+## Install
+1. Download
 ```
 $ git clone https://github.com/moonshade/restaurant_reviews.git
 ```
-2. 以npm安裝相關套件
+2. Install packages via npm 
 ```
 $ npm install
 ```
-3. 執行專案
+3. Run the project
 ```
 $ npm run dev
 ```
-4. 輸入網址並呈現Restaurant Reviews首頁
+4. Hit the Restaurant Reviews website
 ```
 http://localhost:3001
 ```
 
-## 功能說明
-+ 顯示所有餐廳清單：http://localhost:3001
-+ 顯示個別餐廳詳細介紹：http://localhost:3001/restaurants/餐廳id
-+ 搜尋餐廳：http://localhost:3001/search?keyword=搜尋關鍵字
-+ 新增餐廳
-+ 修改餐廳資料
+## Notes
++ Show the complete list of restaurants：http://localhost:3001
++ Show the details of a specific restaurant：http://localhost:3001/restaurants/:restaurant_id
++ Search restaurants：http://localhost:3001/search?keyword=yourkeyword
++ Add new restaurant
++ Modify restaurant data
