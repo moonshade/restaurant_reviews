@@ -1,5 +1,5 @@
 # 我的餐廳清單
-餐廳清單第二版, 使用node.js,express及mongoose開發。除了可以檢視餐廳詳細資訊,搜尋餐廳, 新增及修改餐廳資料之外, 也打造了使用者認證系統
+Restaurant Reviews 使用node.js,express及mongoose開發。除了可以檢視餐廳詳細資訊,搜尋餐廳, 新增及修改餐廳資料之外, 也打造了使用者認證系統
 
 ## 安裝環境要求
 
@@ -12,7 +12,7 @@
 ## 安裝過程
 1. 下載檔案
 ```
-$ git clone https://github.com/moonshade/restaurant_finder.git
+$ git clone https://github.com/moonshade/restaurant_reviews.git
 ```
 2. 以npm安裝相關套件
 ```
@@ -33,5 +33,3 @@ http://localhost:3001
 + 搜尋餐廳：http://localhost:3001/search?keyword=搜尋關鍵字
 + 新增餐廳
 + 修改餐廳資料
-
-
