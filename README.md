@@ -1,5 +1,5 @@
-# 我的餐廳清單
-餐廳清單第二版, 使用node.js,express及mongoose開發。除了可以檢視餐廳詳細資訊,搜尋餐廳, 新增及修改餐廳資料之外, 也打造了使用者認證系統
+# Restaurant Reviews
+Restaurant Reviews 使用node.js,express及mongoose開發。除了可以檢視餐廳詳細資訊,搜尋餐廳, 新增及修改餐廳資料之外, 也打造了使用者認證系統
 
 ## 安裝環境要求
 
@@ -22,7 +22,7 @@ $ npm install
 ```
 $ npm run dev
 ```
-4. 輸入網址並呈現我的餐廳清單首頁
+4. 輸入網址並呈現Restaurant Reviews首頁
 ```
 http://localhost:3001
 ```
